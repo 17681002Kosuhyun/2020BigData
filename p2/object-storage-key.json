@@ -1,7 +1,0 @@
-apikey : TsKBs4Ya3oSqZaLIBWvcHdX0IZzeNapAx2zmQK-8F5Fc
-
-cos_hmac_keys
-access_key_id : cf825e098daa472cb1a0bfa63b089a41
-secret_access_key : a182c47b90d866c6078101a3a3c73d06aa5d6d76f3084539
-
-resource_instance_id : crn:v1:bluemix:public:cloud-object-storage:global:a/038af92a866545cc9f11bf9c3ad7491a:126e7cdf-0dfa-453c-a758-4af0a1efc785::
